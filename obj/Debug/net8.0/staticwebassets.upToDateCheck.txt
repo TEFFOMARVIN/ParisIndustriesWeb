@@ -1,0 +1,17 @@
+wwwroot\contact.html
+wwwroot\css\style.css
+wwwroot\images\logo.png
+wwwroot\images\project1.jpg
+wwwroot\images\project2.jpg
+wwwroot\images\project3.jpg
+wwwroot\images\project4.jpg
+wwwroot\images\project5.jpg
+wwwroot\images\service1.jpg
+wwwroot\images\service2.jpg
+wwwroot\images\service3.jpg
+wwwroot\images\service4.jpg
+wwwroot\index.html
+wwwroot\js\paris.js
+wwwroot\projects.html
+wwwroot\services.html
+wwwroot\Testimonial.html

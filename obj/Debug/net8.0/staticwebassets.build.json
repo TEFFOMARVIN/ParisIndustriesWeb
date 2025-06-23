@@ -1,0 +1,1773 @@
+{
+  "Version": 1,
+  "Hash": "n+Rgjm0mE7cbf7a1DVsUsXn7pqid3Px7QwBNcnMk/QU=",
+  "Source": "ParisIndustriesWebsite",
+  "BasePath": "_content/ParisIndustriesWebsite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ParisIndustriesWebsite\\wwwroot",
+      "Source": "ParisIndustriesWebsite",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\contact.html",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "contact#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "awsogb22mn",
+      "Integrity": "SmTdhWXtGs1BPg4bg3l6cyWpVnRPHy1ZDqA14q2sAmI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\contact.html"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\css\\style.css",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ckryoujn8y",
+      "Integrity": "DABFGLdhe35Qr5GKVSAGgBra/nQwMaofOwczUhIodeI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\logo.png",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "335bpsotdt",
+      "Integrity": "gajVR5stte+9Ldpcfh3FSwwOoVXB9uvk69gkxuJMRsE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project1.jpg",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "images/project1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nrg04hmfaj",
+      "Integrity": "HSNt/Iy/IKWcqEcEKQ3AWwdLMirGvmTnb2DheFmKw0c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\project1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project2.jpg",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "images/project2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rudxsz691b",
+      "Integrity": "nZPe585uoU+D44QyASp5qKU/yYSlayXFiALE9ntpcFM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\project2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project3.jpg",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "images/project3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nc1dnyel02",
+      "Integrity": "6VjJzSPNulm8/TYto4xEmQIvf7pcdha3CPttdWsa6pY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\project3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project4.jpg",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "images/project4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4mm4a9zkmo",
+      "Integrity": "hHb6IzqHyZyseaHTahDufF1B2ZlMK+qBH/wenXZ9bmk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\project4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project5.jpg",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "images/project5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rxuh8xszbz",
+      "Integrity": "32LYqhyV23N1dl8twgJolQrce8fXmCvINb0oEhGH7TE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\project5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service1.jpg",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "images/service1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jmqaxwt71n",
+      "Integrity": "tYmgehXQfQ+ufNukr0S1evtKK4JzvV4+tjlGf3bVmcU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\service1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service2.jpg",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "images/service2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qhx64t63ha",
+      "Integrity": "8thxzwPKEQWMBf5xJiXDmSGA3rlj0vO0PCCUaAWs+lM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\service2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service3.jpg",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "images/service3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lyf70fakyk",
+      "Integrity": "c3clS2YAdM/rw0GrpcvYc4lRzAYSsVOp8AYfm+3b5t8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\service3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service4.jpg",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "images/service4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kmwlckvc1p",
+      "Integrity": "bOQa3CzF7TIXmIMAj5uJOrfktIPPaANFIc5fl+t8sRs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\service4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\index.html",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6yirt4i3iu",
+      "Integrity": "Urq2nuGGPTWZrW1qjWoqttEpREUwfv0jS1yZgwinkDU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\js\\paris.js",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "js/paris#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lff4q0gjlf",
+      "Integrity": "IUFexz/8Yy1cwLrOgxF43XSPE/sU61IUWwt/O9lts28=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\paris.js"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\projects.html",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "projects#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qg31f2kenp",
+      "Integrity": "NsEJhiC8HoesgbZNk19EYcb9iTsupodNnrgAaXl70ew=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\projects.html"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\services.html",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "services#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w3ijzi44e6",
+      "Integrity": "lFIWLc/Pp5TpSnailtVZLqBazwLzEm23PfUqomXsQFs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\services.html"
+    },
+    {
+      "Identity": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\Testimonial.html",
+      "SourceId": "ParisIndustriesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\",
+      "BasePath": "_content/ParisIndustriesWebsite",
+      "RelativePath": "Testimonial#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zbwdk1iopd",
+      "Integrity": "7zxHKib9T0lEaqyKos7/TMrVUSJx2yiYdLFttkMXMxU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Testimonial.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "contact.awsogb22mn.html",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\contact.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SmTdhWXtGs1BPg4bg3l6cyWpVnRPHy1ZDqA14q2sAmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 07:36:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "awsogb22mn"
+        },
+        {
+          "Name": "label",
+          "Value": "contact.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SmTdhWXtGs1BPg4bg3l6cyWpVnRPHy1ZDqA14q2sAmI="
+        }
+      ]
+    },
+    {
+      "Route": "contact.html",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\contact.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SmTdhWXtGs1BPg4bg3l6cyWpVnRPHy1ZDqA14q2sAmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 07:36:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SmTdhWXtGs1BPg4bg3l6cyWpVnRPHy1ZDqA14q2sAmI="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.ckryoujn8y.css",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DABFGLdhe35Qr5GKVSAGgBra/nQwMaofOwczUhIodeI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 07:41:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ckryoujn8y"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DABFGLdhe35Qr5GKVSAGgBra/nQwMaofOwczUhIodeI="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DABFGLdhe35Qr5GKVSAGgBra/nQwMaofOwczUhIodeI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 07:41:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DABFGLdhe35Qr5GKVSAGgBra/nQwMaofOwczUhIodeI="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.335bpsotdt.png",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gajVR5stte+9Ldpcfh3FSwwOoVXB9uvk69gkxuJMRsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 06:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "335bpsotdt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gajVR5stte+9Ldpcfh3FSwwOoVXB9uvk69gkxuJMRsE="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.png",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gajVR5stte+9Ldpcfh3FSwwOoVXB9uvk69gkxuJMRsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 06:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gajVR5stte+9Ldpcfh3FSwwOoVXB9uvk69gkxuJMRsE="
+        }
+      ]
+    },
+    {
+      "Route": "images/project1.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HSNt/Iy/IKWcqEcEKQ3AWwdLMirGvmTnb2DheFmKw0c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HSNt/Iy/IKWcqEcEKQ3AWwdLMirGvmTnb2DheFmKw0c="
+        }
+      ]
+    },
+    {
+      "Route": "images/project1.nrg04hmfaj.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HSNt/Iy/IKWcqEcEKQ3AWwdLMirGvmTnb2DheFmKw0c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nrg04hmfaj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/project1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HSNt/Iy/IKWcqEcEKQ3AWwdLMirGvmTnb2DheFmKw0c="
+        }
+      ]
+    },
+    {
+      "Route": "images/project2.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nZPe585uoU+D44QyASp5qKU/yYSlayXFiALE9ntpcFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:13:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nZPe585uoU+D44QyASp5qKU/yYSlayXFiALE9ntpcFM="
+        }
+      ]
+    },
+    {
+      "Route": "images/project2.rudxsz691b.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nZPe585uoU+D44QyASp5qKU/yYSlayXFiALE9ntpcFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:13:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rudxsz691b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/project2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nZPe585uoU+D44QyASp5qKU/yYSlayXFiALE9ntpcFM="
+        }
+      ]
+    },
+    {
+      "Route": "images/project3.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6VjJzSPNulm8/TYto4xEmQIvf7pcdha3CPttdWsa6pY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:16:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6VjJzSPNulm8/TYto4xEmQIvf7pcdha3CPttdWsa6pY="
+        }
+      ]
+    },
+    {
+      "Route": "images/project3.nc1dnyel02.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6VjJzSPNulm8/TYto4xEmQIvf7pcdha3CPttdWsa6pY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:16:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nc1dnyel02"
+        },
+        {
+          "Name": "label",
+          "Value": "images/project3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6VjJzSPNulm8/TYto4xEmQIvf7pcdha3CPttdWsa6pY="
+        }
+      ]
+    },
+    {
+      "Route": "images/project4.4mm4a9zkmo.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hHb6IzqHyZyseaHTahDufF1B2ZlMK+qBH/wenXZ9bmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:37:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4mm4a9zkmo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/project4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hHb6IzqHyZyseaHTahDufF1B2ZlMK+qBH/wenXZ9bmk="
+        }
+      ]
+    },
+    {
+      "Route": "images/project4.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hHb6IzqHyZyseaHTahDufF1B2ZlMK+qBH/wenXZ9bmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:37:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hHb6IzqHyZyseaHTahDufF1B2ZlMK+qBH/wenXZ9bmk="
+        }
+      ]
+    },
+    {
+      "Route": "images/project5.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93571"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"32LYqhyV23N1dl8twgJolQrce8fXmCvINb0oEhGH7TE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-32LYqhyV23N1dl8twgJolQrce8fXmCvINb0oEhGH7TE="
+        }
+      ]
+    },
+    {
+      "Route": "images/project5.rxuh8xszbz.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93571"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"32LYqhyV23N1dl8twgJolQrce8fXmCvINb0oEhGH7TE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rxuh8xszbz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/project5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-32LYqhyV23N1dl8twgJolQrce8fXmCvINb0oEhGH7TE="
+        }
+      ]
+    },
+    {
+      "Route": "images/service1.jmqaxwt71n.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tYmgehXQfQ+ufNukr0S1evtKK4JzvV4+tjlGf3bVmcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:11:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jmqaxwt71n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/service1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tYmgehXQfQ+ufNukr0S1evtKK4JzvV4+tjlGf3bVmcU="
+        }
+      ]
+    },
+    {
+      "Route": "images/service1.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tYmgehXQfQ+ufNukr0S1evtKK4JzvV4+tjlGf3bVmcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:11:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tYmgehXQfQ+ufNukr0S1evtKK4JzvV4+tjlGf3bVmcU="
+        }
+      ]
+    },
+    {
+      "Route": "images/service2.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6388"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8thxzwPKEQWMBf5xJiXDmSGA3rlj0vO0PCCUaAWs+lM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:17:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8thxzwPKEQWMBf5xJiXDmSGA3rlj0vO0PCCUaAWs+lM="
+        }
+      ]
+    },
+    {
+      "Route": "images/service2.qhx64t63ha.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6388"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8thxzwPKEQWMBf5xJiXDmSGA3rlj0vO0PCCUaAWs+lM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:17:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qhx64t63ha"
+        },
+        {
+          "Name": "label",
+          "Value": "images/service2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8thxzwPKEQWMBf5xJiXDmSGA3rlj0vO0PCCUaAWs+lM="
+        }
+      ]
+    },
+    {
+      "Route": "images/service3.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c3clS2YAdM/rw0GrpcvYc4lRzAYSsVOp8AYfm+3b5t8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:19:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c3clS2YAdM/rw0GrpcvYc4lRzAYSsVOp8AYfm+3b5t8="
+        }
+      ]
+    },
+    {
+      "Route": "images/service3.lyf70fakyk.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c3clS2YAdM/rw0GrpcvYc4lRzAYSsVOp8AYfm+3b5t8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:19:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lyf70fakyk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/service3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c3clS2YAdM/rw0GrpcvYc4lRzAYSsVOp8AYfm+3b5t8="
+        }
+      ]
+    },
+    {
+      "Route": "images/service4.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bOQa3CzF7TIXmIMAj5uJOrfktIPPaANFIc5fl+t8sRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:44:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bOQa3CzF7TIXmIMAj5uJOrfktIPPaANFIc5fl+t8sRs="
+        }
+      ]
+    },
+    {
+      "Route": "images/service4.kmwlckvc1p.jpg",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bOQa3CzF7TIXmIMAj5uJOrfktIPPaANFIc5fl+t8sRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 09:44:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kmwlckvc1p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/service4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bOQa3CzF7TIXmIMAj5uJOrfktIPPaANFIc5fl+t8sRs="
+        }
+      ]
+    },
+    {
+      "Route": "index.6yirt4i3iu.html",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Urq2nuGGPTWZrW1qjWoqttEpREUwfv0jS1yZgwinkDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 07:35:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6yirt4i3iu"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Urq2nuGGPTWZrW1qjWoqttEpREUwfv0jS1yZgwinkDU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Urq2nuGGPTWZrW1qjWoqttEpREUwfv0jS1yZgwinkDU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 07:35:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Urq2nuGGPTWZrW1qjWoqttEpREUwfv0jS1yZgwinkDU="
+        }
+      ]
+    },
+    {
+      "Route": "js/paris.js",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\js\\paris.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IUFexz/8Yy1cwLrOgxF43XSPE/sU61IUWwt/O9lts28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 07:40:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IUFexz/8Yy1cwLrOgxF43XSPE/sU61IUWwt/O9lts28="
+        }
+      ]
+    },
+    {
+      "Route": "js/paris.lff4q0gjlf.js",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\js\\paris.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IUFexz/8Yy1cwLrOgxF43XSPE/sU61IUWwt/O9lts28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 07:40:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lff4q0gjlf"
+        },
+        {
+          "Name": "label",
+          "Value": "js/paris.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IUFexz/8Yy1cwLrOgxF43XSPE/sU61IUWwt/O9lts28="
+        }
+      ]
+    },
+    {
+      "Route": "projects.html",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\projects.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NsEJhiC8HoesgbZNk19EYcb9iTsupodNnrgAaXl70ew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 07:13:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NsEJhiC8HoesgbZNk19EYcb9iTsupodNnrgAaXl70ew="
+        }
+      ]
+    },
+    {
+      "Route": "projects.qg31f2kenp.html",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\projects.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NsEJhiC8HoesgbZNk19EYcb9iTsupodNnrgAaXl70ew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 07:13:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qg31f2kenp"
+        },
+        {
+          "Name": "label",
+          "Value": "projects.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NsEJhiC8HoesgbZNk19EYcb9iTsupodNnrgAaXl70ew="
+        }
+      ]
+    },
+    {
+      "Route": "services.html",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\services.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lFIWLc/Pp5TpSnailtVZLqBazwLzEm23PfUqomXsQFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 07:13:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lFIWLc/Pp5TpSnailtVZLqBazwLzEm23PfUqomXsQFs="
+        }
+      ]
+    },
+    {
+      "Route": "services.w3ijzi44e6.html",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\services.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lFIWLc/Pp5TpSnailtVZLqBazwLzEm23PfUqomXsQFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 07:13:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w3ijzi44e6"
+        },
+        {
+          "Name": "label",
+          "Value": "services.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lFIWLc/Pp5TpSnailtVZLqBazwLzEm23PfUqomXsQFs="
+        }
+      ]
+    },
+    {
+      "Route": "Testimonial.html",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\Testimonial.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7zxHKib9T0lEaqyKos7/TMrVUSJx2yiYdLFttkMXMxU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 07:18:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7zxHKib9T0lEaqyKos7/TMrVUSJx2yiYdLFttkMXMxU="
+        }
+      ]
+    },
+    {
+      "Route": "Testimonial.zbwdk1iopd.html",
+      "AssetFile": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\Testimonial.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7zxHKib9T0lEaqyKos7/TMrVUSJx2yiYdLFttkMXMxU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 07:18:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zbwdk1iopd"
+        },
+        {
+          "Name": "label",
+          "Value": "Testimonial.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7zxHKib9T0lEaqyKos7/TMrVUSJx2yiYdLFttkMXMxU="
+        }
+      ]
+    }
+  ]
+}

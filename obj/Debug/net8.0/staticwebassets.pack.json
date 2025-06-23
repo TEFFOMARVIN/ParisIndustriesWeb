@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\Testimonial.html",
+      "PackagePath": "staticwebassets\\Testimonial.html"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project1.jpg",
+      "PackagePath": "staticwebassets\\images\\project1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project2.jpg",
+      "PackagePath": "staticwebassets\\images\\project2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project3.jpg",
+      "PackagePath": "staticwebassets\\images\\project3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project4.jpg",
+      "PackagePath": "staticwebassets\\images\\project4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\project5.jpg",
+      "PackagePath": "staticwebassets\\images\\project5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service1.jpg",
+      "PackagePath": "staticwebassets\\images\\service1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service2.jpg",
+      "PackagePath": "staticwebassets\\images\\service2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service3.jpg",
+      "PackagePath": "staticwebassets\\images\\service3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\images\\service4.jpg",
+      "PackagePath": "staticwebassets\\images\\service4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\js\\paris.js",
+      "PackagePath": "staticwebassets\\js\\paris.js"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\projects.html",
+      "PackagePath": "staticwebassets\\projects.html"
+    },
+    {
+      "Id": "C:\\Users\\tmaishi\\Downloads\\ParisIndustriesWebsite\\wwwroot\\services.html",
+      "PackagePath": "staticwebassets\\services.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ParisIndustriesWebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ParisIndustriesWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ParisIndustriesWebsite.props",
+      "PackagePath": "build\\ParisIndustriesWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ParisIndustriesWebsite.props",
+      "PackagePath": "buildMultiTargeting\\ParisIndustriesWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ParisIndustriesWebsite.props",
+      "PackagePath": "buildTransitive\\ParisIndustriesWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
